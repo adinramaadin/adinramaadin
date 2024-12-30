@@ -5,6 +5,8 @@
 Aspiring data scientist and economics student at Universitas Indonesia, skilled in Excel (Power Query, DAX), SQL, and Python. I have hands-on experience in transforming complex data into clear, actionable insights, working on projects that involve job market analysis, salary benchmarking, and consumer behavior insights. As Head of the Analyst Division at Economica, I lead teams and oversee strategic initiatives, blending technical and leadership skills. I’m passionate about using data-driven insights to inform impactful decisions in economic and analytical fields.
 
  <p align="left">
+  <a href="https://github.com/adinramaadin?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adinramaadin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/adinramaadin?tab=followers">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adinramaadin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     </p>

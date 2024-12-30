@@ -10,6 +10,8 @@ Aspiring data scientist and economics student at Universitas Indonesia, skilled 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+#
+
 ### 📊 Stats
 
 ![Adin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinramaadin&show_icons=true&theme=gruvbox)

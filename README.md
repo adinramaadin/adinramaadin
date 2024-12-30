@@ -12,7 +12,9 @@ Aspiring data scientist and economics student at Universitas Indonesia, skilled 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Adin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinramaadin&show_icons=true&theme=gruvbox)
+
+#
 
 [website]: https://www.linkedin.com/in/adinramaadin/
 <!--

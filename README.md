@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adinramaadhin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) 
 
 
 # 💻 Tech Stack:

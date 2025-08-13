@@ -1,25 +1,16 @@
 # 💫 Hi, I’m Adin
 
-I’m studying economics and spend most of my time wrestling with a deceptively simple question:
-<p align="center"><strong>“Does X cause Y… or are we fooling ourselves?”</strong></p>
+I’m an economics student, and most days I find myself circling back to one deceptively simple question:
 
-In economics, we rarely get the luxury of controlled experiments.  
+<p align="center"><strong>“Does X cause Y… or are we just fooling ourselves?”</strong></p>
 
-Instead, we work with *observational data* (messy, confounded, and full of hidden biases).  
+In economics, we almost never get the luxry of a controlled lab experiment. Instead, we wade through observational data—messy, confounded, and full of hidden biases.
 
-That’s why I’ve gravitated toward **impact evaluation** and **causal inference**, from instrumental variables and difference-in-differences to event studies and synthetic control methods.  
+That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve explored everything from instrumental variables and difference-in-differences to event studies and synthetic controls (and each method gives a different lens for separating genuine cause from mere coincidence). Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
 
-I also work across **panel data**, **cross-sectional analysis**, and **time-series modeling**, digging into cointegration, structural breaks, and robustness checks.  
+Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models risk becoming elegant ways to be wrong. That’s why sharpening my causal inference toolkit has become my main priority.
 
-Too often, people mistake correlation for causation. Or worse, see what they want to see and call it causality.  
-
-Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models can become just another vehicle for bias.  
-
-This is why advancing my causal inference toolkit is my primary focus.  
-
-At the same time, I’ve been branching into **predictive modeling** and **forecasting**, because while causality tells us *why* things happen, prediction helps us prepare for *what might happen next*.  
-
-Bringing the two together, I aim to build insights that are both scientifically sound and practically useful.
+Lately, I’ve also been venturing into predictive modeling and forecasting. Causality explains why things happen; prediction helps us prepare for what might happen next. Together, they form a toolkit for building insights that are both scientifically credible and practically useful.
 
 
 ## 🌐 Socials:

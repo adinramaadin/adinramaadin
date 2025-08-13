@@ -10,8 +10,7 @@ That’s why I've gravitated towards  **impact evaluation and causal inference**
 
 Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models risk becoming elegant ways to be wrong. That’s why sharpening my causal inference toolkit has become my main priority.
 
-Lately, I’ve also been venturing into predictive modeling and forecasting. Causality explains why things happen; prediction helps us prepare for what might happen next. Together, they form a toolkit for building insights that are both scientifically credible and practically useful.
-
+At the same time, I’ve been branching into **predictive modeling** and **forecasting**, because while causality tells us *why* things happen, prediction helps us prepare for *what might happen next*. My hope is that combining the two will help me produce insights that are not just academically solid, but also genuinely useful in the real world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) 

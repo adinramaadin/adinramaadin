@@ -1,5 +1,25 @@
 # 💫 About Me:
-<br>
+
+I’m studying economics and spend most of my time wrestling with a deceptively simple question:
+<p align="center"><strong>“Does X cause Y… or are we fooling ourselves?”</strong></p>
+
+In economics, we rarely get the luxury of controlled experiments.  
+
+Instead, we work with *observational data* (messy, confounded, and full of hidden biases).  
+
+That’s why I’ve gravitated toward **impact evaluation** and **causal inference**, from instrumental variables and difference-in-differences to event studies and synthetic control methods.  
+
+I also work across **panel data**, **cross-sectional analysis**, and **time-series modeling**, digging into cointegration, structural breaks, and robustness checks.  
+
+Too often, people mistake correlation for causation. Or worse, see what they want to see and call it causality.  
+
+Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models can become just another vehicle for bias.  
+
+This is why advancing my causal inference toolkit is my primary focus.  
+
+At the same time, I’ve been branching into **predictive modeling** and **forecasting**, because while causality tells us *why* things happen, prediction helps us prepare for *what might happen next*.  
+
+Bringing the two together, I aim to build insights that are both scientifically sound and practically useful.
 
 
 ## 🌐 Socials:

@@ -1,4 +1,4 @@
-# 💫 Hi, I’m Adin:
+# 💫 Hi, I’m Adin
 
 I’m studying economics and spend most of my time wrestling with a deceptively simple question:
 <p align="center"><strong>“Does X cause Y… or are we fooling ourselves?”</strong></p>

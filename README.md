@@ -2,7 +2,7 @@
 
 I’m an economics student, and most days I find myself circling back to one deceptively simple question:
 
-<p align="center"><strong>“Does X cause Y… or are we just fooling ourselves?”</strong></p>
+<p align="center"><strong>“Does X cause Y… or or is the relationship spurious?”</strong></p>
 
 In economics, we almost never get the luxry of a controlled lab experiment. Instead, we wade through observational data—messy, confounded, and full of hidden biases.
 

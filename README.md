@@ -8,8 +8,6 @@ In economics, we almost never get the luxry of a controlled lab experiment. Inst
 
 That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve played around with methods like instrumental variables, difference-in-differences, event studies, and synthetic controls. Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
 
-Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models risk becoming elegant ways to be wrong. That’s why sharpening my causal inference toolkit has become my main priority.
-
 I’m also exploring **predictive modeling** and **forecasting**. 
 
 My hope is that combining the two will help me produce insights that are not just academically solid, but also genuinely useful in the real world.

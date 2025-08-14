@@ -6,11 +6,13 @@ I’m an economics student, and most days I find myself circling back to one dec
 
 In economics, we almost never get the luxry of a controlled lab experiment. Instead, we wade through observational data—messy, confounded, and full of hidden biases.
 
-That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve explored everything from instrumental variables and difference-in-differences to event studies and synthetic controls (and each method gives a different lens for separating genuine cause from mere coincidence). Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
+That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve played around with methods like instrumental variables, difference-in-differences, event studies, and synthetic controls. Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
 
 Without rigorous design, transparent assumptions, and careful testing, even the most sophisticated models risk becoming elegant ways to be wrong. That’s why sharpening my causal inference toolkit has become my main priority.
 
-At the same time, I’ve been branching into **predictive modeling** and **forecasting**, because while causality tells us *why* things happen, prediction helps us prepare for *what might happen next*. My hope is that combining the two will help me produce insights that are not just academically solid, but also genuinely useful in the real world.
+I’m also exploring **predictive modeling** and **forecasting**. 
+
+My hope is that combining the two will help me produce insights that are not just academically solid, but also genuinely useful in the real world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) 

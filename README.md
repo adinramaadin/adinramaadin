@@ -4,7 +4,7 @@ I’m an economics student, and most days I find myself circling back to one dec
 
 <p align="center"><strong>“Does X cause Y… or is the relationship spurious?”</strong></p>
 
-In economics, we almost never get the luxry of a controlled lab experiment. Instead, we wade through observational data—messy, confounded, and full of hidden biases.
+In economics, we almost never get the luxury of a controlled lab experiment. Instead, we wade through observational data—messy, confounded, and full of hidden biases.
 
 That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve played around with methods like instrumental variables, difference-in-differences, event studies, and synthetic controls. Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
 

@@ -4,11 +4,11 @@ I’m an economics student, and most days I end up circling back to this one que
 
 <p align="center"><strong>“If X changes, how much does Y respond...and is X truly the cause of the change in Y, or is something else at play?”</strong></p>
 
-In economics, we almost never get the luxury of a controlled lab experiment. What we usually get is observational data (messy, biased, sometimes misleading), and we try to pull meaning out of it. That puzzle is what hooked me in the first place.  
+In economics, we almost never get the luxury of a controlled lab experiment. What we usually get is observational data (messy, biased, sometimes misleading), and we try to pull meaning out of it. 
 
-Over time, I’ve leaned into **impact evaluation and causal inference**. I’ve tried out instrumental variables, difference-in-differences, event studies, and synthetic controls. Each of them has taught me something different—like how correlation loves to dress up as causation, or how results can bend toward what someone wants to believe rather than what’s actually happening.  
+Over time, I’ve leaned into **impact evaluation and causal inference**. I’ve tried out instrumental variables, difference-in-differences, event studies, and synthetic controls. Each of them has taught me something different—like how fragile causal claims can be. It also showed me the risk of results reflecting expectations rather than underlying realities.  
 
-Lately, I’ve been branching into **predictive modeling** and **forecasting**. Causal inference makes me think about “why,” while prediction makes me think about “what next.” Putting the two together feels like a good way to stay grounded in evidence but also open to uncertainty.  
+Lately, I’ve been branching into **predictive modeling** and **forecasting**. 
 
 My hope is that combining the two will help me produce things that are not just academically solid, but also genuinely useful in the real world.
 

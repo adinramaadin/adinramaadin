@@ -1,6 +1,6 @@
 # 💫 Hi, I’m Adin
 
-I’m an economics student, and most days I end up circling back to one question that looks simple but never really is:  
+I’m an economics student, and most days I end up circling back to this one question:  
 
 <p align="center"><strong>“If X changes, how much does Y respond...and is X truly the cause of the change in Y, or is something else at play?”</strong></p>
 

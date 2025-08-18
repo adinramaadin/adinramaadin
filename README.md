@@ -1,16 +1,16 @@
 # 💫 Hi, I’m Adin
 
-I’m an economics student, and most days I find myself circling back to one deceptively simple question:
+I’m an economics student, and most days I end up circling back to one question that looks simple but never really is:  
 
 <p align="center"><strong>“If X changes, how much does Y respond...and is X truly the cause of the change in Y, or is something else at play?”</strong></p>
 
-In economics, we almost never get the luxury of a controlled lab experiment. Instead, we wade through observational data, which is messy, confounded, and full of hidden biases.
+In economics, we almost never get the luxury of a controlled lab experiment. What we usually get is observational data (messy, biased, sometimes misleading), and we try to pull meaning out of it. That puzzle is what hooked me in the first place.  
 
-That’s why I've gravitated towards  **impact evaluation and causal inference**. I’ve played around with methods like instrumental variables, difference-in-differences, event studies, and synthetic controls. Along the way, I’ve seen how easy it is for correlation to masquerade as causation, or worse, for results to reflect what someone wants to see, rather than what’s really there.
+Over time, I’ve leaned into **impact evaluation and causal inference**. I’ve tried out instrumental variables, difference-in-differences, event studies, and synthetic controls. Each of them has taught me something different—like how correlation loves to dress up as causation, or how results can bend toward what someone wants to believe rather than what’s actually happening.  
 
-At the same time, I’ve been branching into **predictive modeling** and **forecasting**.
+Lately, I’ve been branching into **predictive modeling** and **forecasting**. Causal inference makes me think about “why,” while prediction makes me think about “what next.” Putting the two together feels like a good way to stay grounded in evidence but also open to uncertainty.  
 
-My hope is that combining the two will help me produce insights that are not just academically solid, but also genuinely useful in the real world.
+My hope is that combining the two will help me produce things that are not just academically solid, but also genuinely useful in the real world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) 

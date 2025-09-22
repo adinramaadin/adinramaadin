@@ -1,16 +1,4 @@
-# 💫 Hi, I’m Adin
 
-I’m an economics student, and most days I end up circling back to this one question:  
-
-<p align="center"><strong>“If X changes, how much does Y respond...and is X truly the cause of the change in Y, or is something else at play?”</strong></p>
-
-In economics, we almost never get the luxury of a controlled lab experiment. What we usually get is observational data (messy, biased, sometimes misleading), and we try to pull meaning out of it. 
-
-Over time, I’ve leaned into **impact evaluation and causal inference**. I’ve tried out instrumental variables, difference-in-differences, event studies, and synthetic controls. Each of them has taught me something different, like how fragile causal claims can be. It also showed me the risk of results reflecting expectations rather than underlying realities.  
-
-Lately, I’ve been branching into **predictive modeling** and **forecasting**. 
-
-My hope is that combining the two will help me produce things that are not just academically solid, but also genuinely useful in the real world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinramaadin/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farhanadityaramadhan) [![Letterboxd](https://img.shields.io/badge/letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/adinramaadin/) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/165427313-adin-ramadhan) 
